@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on an app that gets people excited about picking up trash and beutifying their block, and fosters community through environmental care!
+- 🔭 I’m currently working on an app to get people excited about picking up trash and beutifying their block, and fosters community through environmental care!
 - 💬 Ask me about what music I am currently geeking out about!
 - 📫 How to reach me: https://www.linkedin.com/in/siv-earley-93b41326a/
 - 😄 Pronouns: She/her
