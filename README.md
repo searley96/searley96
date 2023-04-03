@@ -9,5 +9,5 @@
 - 💬 Ask me about what music I am currently geeking out about!
 - 📫 How to reach me: https://www.linkedin.com/in/siv-earley-93b41326a/
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I love to spend summers on the sailboat with my partner! 
+- ⚡ Fun fact: My favorite holiday is Halloween! 
 
