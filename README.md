@@ -5,7 +5,7 @@
 
 
 
-<!-- - 🔭 I’m currently working on an app to get people excited about picking up trash and beutifying their block, and fosters community through environmental care! -->
+- 🌈 I’m currently working on a digital recreation of the fortune telling game M.A.S.H. that is heavily inspiried by early-2000s aesthetics! 
 - 💬 Ask me about what music I am currently geeking out about!
 - 📫 How to reach me: https://www.linkedin.com/in/siv-earley-93b41326a/
 - 😄 Pronouns: She/her
