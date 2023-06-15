@@ -5,7 +5,7 @@
 
 
 
-- 🌈 I’m currently working on a digital recreation of the fortune telling game M.A.S.H. that is heavily inspiried by early-2000s aesthetics! 
+- 🌈 I’m currently working on portfolio to showcase my coding projects!
 - 💬 Ask me about what music I am currently geeking out about!
 - 📫 How to reach me: https://www.linkedin.com/in/siv-earley-93b41326a/
 - 😄 Pronouns: She/her
