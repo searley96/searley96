@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Siv, a full-stack software developer who is deeply committed to infusing curiosity and a spirit of inclusion into everything I do.
+### Hi there 👋 I'm Siv, a full-stack software developer who is deeply committed to infusing curiosity, a sense of whimsy, and a spirit of inclusion into everything I do.
 
 
 <!-- **searley96/searley96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
