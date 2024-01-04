@@ -5,7 +5,7 @@
 
 
 
-- 🌈 I’m currently working on portfolio to showcase my coding projects!
+- 🌈 I’m currently working on a winter inspired game built with HTML, CSS, and JavaScript!
 - 💬 Ask me about what music I am currently geeking out about!
 - 📫 How to reach me: https://www.linkedin.com/in/siv-earley-93b41326a/
 - 😄 Pronouns: She/her
