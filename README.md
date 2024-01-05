@@ -8,5 +8,5 @@
 - 🌈 I’m currently working on a winter inspired game built with HTML, CSS, and JavaScript!
 - 💬 Ask me about what music I am currently geeking out about!
 - 📫 How to reach me: https://www.linkedin.com/in/siv-earley-93b41326a/
-- ⚡ Fun fact: My favorite holiday is Halloween! 
+- ⚡ Fun fact: I LOVE Halloween! 
 
